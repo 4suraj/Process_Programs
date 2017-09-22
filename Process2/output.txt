@@ -1,0 +1,14 @@
+
+
+/*	OUTPUT
+
+Process_1
+Wait call by Process_1
+Process_2
+Wait call by Process_2
+Process_3
+Process_3 Terminates
+Process_2 Terminates
+Process_1 Terminates
+
+/*
