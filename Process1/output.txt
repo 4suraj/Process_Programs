@@ -1,0 +1,9 @@
+/*	OUTPUT
+
+Parent
+Wait call by parent
+Child
+Child ends
+Parent ends
+
+*/
