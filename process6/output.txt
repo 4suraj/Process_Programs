@@ -1,0 +1,23 @@
+
+/*	OUTPUT
+
+Inside Parent process
+Inside Child Process
+
+"demo.txt" File is successfully created with file descriptor 4 
+Want to read contents from this file ? ( y / n ) : y
+.
+Assignment 3(Process)
+1000 Linux Command Tutorials - Sanfoundry_files
+MOS_Assignments.zip
+..
+1000 Linux Command Tutorials - Sanfoundry.html
+NPAT Problems
+Multi-OS-Marvellous
+bhal.c
+
+Child process having PID 5268 terminates with exit status 0
+Execution of parent process completed
+
+
+*/
